@@ -1,4 +1,4 @@
--------------------------------------------------------ONLINE SPORTS SHOP--------------------------------------------------------------------
+-------------------------------------------------------ONLINE SPORTS SHOP------------------------------------------------------------------
 
 Our project focuses on designing an application program that can help a specific set of people, those interested in sports, to choose sports accessories from categories of products and can order them online. The application provides basic options like:
 
